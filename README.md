@@ -1,2 +1,3 @@
-# margin-call
-Margin Call — Flappy Bird for day traders. Open on your phone.
+# Margin Call
+
+Margin Call is a Flappy Bird–style day trader game. Open the Pages URL to play on phone.
